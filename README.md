@@ -37,10 +37,10 @@
 ### 🐍 [IA-Game-Sim](https://github.com/LuisFelipe1612/IA-Game-Sim)
 Jogo de adivinhação numérica em Python, com geração aleatória e dicas para o jogador. Um projeto de estudo para explorar a lógica de jogos.
 
-### ☕ [ListaDeTarefas]https://github.com/LuisFelipe1612/Lista-de-Tarefas
+### ☕ [ListaDeTarefas](https://github.com/LuisFelipe1612/Lista-de-Tarefas)
 Um programa de terminal simples para gerenciar tarefas do dia a dia, criado como parte dos meus estudos de fundamentos de Python.
 
-### 🧠 [KaggleML]https://github.com/LuisFelipe1612/MachineLearningKaggle
+### 🧠 [KaggleML](https://github.com/LuisFelipe1612/MachineLearningKaggle)
 Pesquisa feita usando base de dados Kaggle, a base de dados escolhida foi sobre Nutrição de alimentos assados, ​​ela tem como objetivo saber se você está se alimentando de forma saudável.
 
 ---
